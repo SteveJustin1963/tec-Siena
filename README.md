@@ -2,7 +2,7 @@
 
 https://github.com/jhlagado/siena
 
-
+## 30-12-2022
 John It sounds like you're working on an exciting new programming language called Siena, which has a number of interesting features and approaches to programming. You've mentioned that it is an RPN Forth-like language, but without some of the more complex stack manipulation operators found in Forth. Instead, it uses a single stack and has arguments similar to those found in C. You've also mentioned that Siena includes support for displaying 16-bit decimal numbers with a sign, and includes a simplified memory access mode that allows you to switch between byte and word mode.
 
 You've mentioned that you're also working on adding support for object-oriented programming to Siena, which will enable easier programming of hardware. You're taking a reactive approach to programming, which involves connecting to streams of events and reacting to them, rather than using imperative programming techniques such as loops and if-then statements. This approach is inspired by the field of reactive functional programming, which aims to enable a more mathematical approach to programming by treating gates as functions.
